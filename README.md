@@ -1,7 +1,7 @@
 # 👋 Hi, I’m HariPavuluri
-- 👀 I’m interested in coding,tech.
-- 🌱 I’m currently learning python
-- 💞️ I’m intrested in learing programming.
+- 👀 I’m interested in cybertech,coding,tech.
+- 🌱 I’m currently persuing my masters in cyber security
+- 💞️ I’m intrested in new bugs.
 - 📫 How to reach me pavulurichakravathy@gmail.com
 
 <!---
